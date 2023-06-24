@@ -3,7 +3,7 @@
 
 ## From above HR-DASHBOARD ,we can observe that :-
 
-There are total 1470 employees ,in which 60% of the total employees are male and that of 40% are femlale\n.
+There are total 1470 employees ,in which 60% of the total employees are male and that of 40% are femlale<br />.
 8% of the total employees are in retreachment catagories\n.
 95% of the total employees are promoted and 4.9% are due for promotion\n.
 84% of the employees are has been rated high but 52% highly rated employee are unsatisfied with there position\n.
